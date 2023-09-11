@@ -12,6 +12,7 @@ Fast containers - optimise container cold start
 - [firecracker-containerd/docs/architecture.md at main · firecracker-microvm/firecracker-containerd · GitHub](https://github.com/containerd/containerd/issues/3731)
 - [Support remote snapshotter to speed up image pulling · Issue #3731 · containerd/containerd · GitHub] (https://github.com/containerd/containerd/issues/3731)
 - [remote filesystem snapshotter · Issue #2943 · containerd/containerd · GitHub] (https://github.com/containerd/containerd/issues/2943)
+- [Slacker](https://www.usenix.org/system/files/conference/fast16/fast16-papers-harter.pdf)
 - [GitHub - containerd/stargz-snapshotter: Fast container image distribution plugin with lazy pulling] (https://github.com/containerd/stargz-snapshotter)
 - [stargz-snapshotter/docs/ctr-remote.md at main · containerd/stargz-snapshotter · GitHub] (https://github.com/containerd/stargz-snapshotter/blob/main/docs/ctr-remote.md)
 - [stargz-snapshotter/docs/estargz.md at main · containerd/stargz-snapshotter · GitHub] (https://github.com/containerd/stargz-snapshotter/blob/main/docs/estargz.md)
