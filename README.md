@@ -4,8 +4,9 @@ Fast containers - optimise container cold start
 ![Containerd Architecture](https://github.com/akhilac1/quickhaul/assets/3939554/c88531d5-aaf3-4384-a232-b40169d95b73 "Containerd Architecture")
 
 #Goals
-- Benchmark the current container cold start using Hello Bench
-- 
+- Experiment with stargz container format and derive metrics
+- Deploy e2e setup and measure the improvement in size/launch time 
+  
 #References
 - [What is a containerd snapshotter? - DEV Community](https://dev.to/napicella/what-is-a-containerd-snapshotters-3eo2)
 - [Startup Containers in Lightning Speed with Lazy Image Distribution on Containerd | by Kohei Tokunaga](https://medium.com/nttlabs/startup-containers-in-lightning-speed-with-lazy-image-distribution-on-containerd-243d94522361)
